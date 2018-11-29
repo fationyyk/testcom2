@@ -1,0 +1,19 @@
+{
+    "name": "yanlongma/push",
+    "type":"fation-test",
+    "description": "Third party message push",
+    "authors": [
+        {
+            "name": "Yanlong Ma"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "YanlongMa\\Push\\": "src/"
+        }
+    }
+}
