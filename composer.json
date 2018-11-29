@@ -1,6 +1,6 @@
 {
     "name": "fationyyk/push",
-    "type":"fation-test",
+    "type":"phpdocumentor-template",
     "description": "Third party message push",
     "authors": [
         {
